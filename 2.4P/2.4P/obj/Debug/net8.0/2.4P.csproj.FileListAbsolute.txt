@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\2.4P\2.4P\bin\Debug\net8.0\2.4P.exe
+C:\Users\ACER\source\repos\2.4P\2.4P\bin\Debug\net8.0\2.4P.deps.json
+C:\Users\ACER\source\repos\2.4P\2.4P\bin\Debug\net8.0\2.4P.runtimeconfig.json
+C:\Users\ACER\source\repos\2.4P\2.4P\bin\Debug\net8.0\2.4P.dll
+C:\Users\ACER\source\repos\2.4P\2.4P\bin\Debug\net8.0\2.4P.pdb
+C:\Users\ACER\source\repos\2.4P\2.4P\obj\Debug\net8.0\2.4P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\2.4P\2.4P\obj\Debug\net8.0\2.4P.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\2.4P\2.4P\obj\Debug\net8.0\2.4P.AssemblyInfo.cs
+C:\Users\ACER\source\repos\2.4P\2.4P\obj\Debug\net8.0\2.4P.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\2.4P\2.4P\obj\Debug\net8.0\2.4P.dll
+C:\Users\ACER\source\repos\2.4P\2.4P\obj\Debug\net8.0\refint\2.4P.dll
+C:\Users\ACER\source\repos\2.4P\2.4P\obj\Debug\net8.0\2.4P.pdb
+C:\Users\ACER\source\repos\2.4P\2.4P\obj\Debug\net8.0\2.4P.genruntimeconfig.cache
+C:\Users\ACER\source\repos\2.4P\2.4P\obj\Debug\net8.0\ref\2.4P.dll

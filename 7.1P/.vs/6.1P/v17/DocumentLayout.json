@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\LookCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LookCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77A697F-16AA-4B54-8A6F-15B20FD3EC1F}|..\\LookCommandTest\\LookCommandTest.csproj|d:\\semester 2\\object oriented programming\\projects\\lookcommandtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083E7C51-209D-451B-AE4F-5E4F91ACA1D4}|..\\BagTest\\BagTest.csproj|d:\\semester 2\\object oriented programming\\projects\\bagtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA4CA85-9129-44ED-8C81-FCABA222C3BF}|..\\ItemTest\\ItemTest.csproj|d:\\semester 2\\object oriented programming\\projects\\itemtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87E1245-E29C-450B-915D-C69794513FA5}|..\\InventoryTest\\InventoryTest.csproj|d:\\semester 2\\object oriented programming\\projects\\inventorytest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8B09A-FB5C-4B5C-B4F5-2C8288F3C428}|..\\PlayerTest\\PlayerTest.csproj|d:\\semester 2\\object oriented programming\\projects\\playertest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015CAA80-3A2B-416C-818A-2B5050257008}|..\\IdentifiableObjectTest\\IdentifiableObjectTest.csproj|d:\\semester 2\\object oriented programming\\projects\\identifiableobjecttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083E7C51-209D-451B-AE4F-5E4F91ACA1D4}|..\\BagTest\\BagTest.csproj|d:\\semester 2\\object oriented programming\\projects\\bagtest\\bagtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\IHaveInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IHaveInventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\IdentifiableObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IdentifiableObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\GameObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 145,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\LookCommandTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\LookCommandTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\LookCommandTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\LookCommandTest\\UnitTest1.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAswE8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:05:11.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IHaveInventory.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\IHaveInventory.cs",
+              "RelativeDocumentMoniker": "IHaveInventory.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\IHaveInventory.cs",
+              "RelativeToolTip": "IHaveInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:23:10.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Command.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Command.cs",
+              "RelativeDocumentMoniker": "Command.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Command.cs",
+              "RelativeToolTip": "Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:10:55.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BagTest.csproj",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\BagTest\\BagTest.csproj",
+              "RelativeDocumentMoniker": "..\\BagTest\\BagTest.csproj",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\BagTest\\BagTest.csproj",
+              "RelativeToolTip": "..\\BagTest\\BagTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T11:55:11.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\PlayerTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\PlayerTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\PlayerTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\PlayerTest\\UnitTest1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:54:40.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\ItemTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\ItemTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\ItemTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\ItemTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:54:01.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\InventoryTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\InventoryTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\InventoryTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\InventoryTest\\UnitTest1.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:53:20.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\IdentifiableObjectTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\IdentifiableObjectTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\IdentifiableObjectTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\IdentifiableObjectTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:48:00.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LookCommand.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\LookCommand.cs",
+              "RelativeDocumentMoniker": "LookCommand.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\LookCommand.cs",
+              "RelativeToolTip": "LookCommand.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:10:21.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\BagTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\BagTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\BagTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\BagTest\\UnitTest1.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:46:58.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:46:12.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:45:49.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IdentifiableObject.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\IdentifiableObject.cs",
+              "RelativeDocumentMoniker": "IdentifiableObject.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\IdentifiableObject.cs",
+              "RelativeToolTip": "IdentifiableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:45:27.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameObject.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\GameObject.cs",
+              "RelativeToolTip": "GameObject.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:45:01.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:44:29.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bag.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Bag.cs",
+              "RelativeDocumentMoniker": "Bag.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Bag.cs",
+              "RelativeToolTip": "Bag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:44:04.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\Projects\\7.1P\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:35:01.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

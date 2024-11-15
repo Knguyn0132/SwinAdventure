@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 2\\Object Oriented Programming\\swin_adventure\\2.4P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BAF9D2-689C-47FA-B375-2DF2FAAC1FB5}|IdentifiableObjectTest\\IdentifiableObjectTest.csproj|d:\\semester 2\\object oriented programming\\swin_adventure\\2.4p\\identifiableobjecttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BAF9D2-689C-47FA-B375-2DF2FAAC1FB5}|IdentifiableObjectTest\\IdentifiableObjectTest.csproj|solutionrelative:identifiableobjecttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC65D78-0B8F-444D-B0F0-FB58DCBE96B3}|2.4P\\2.4P.csproj|d:\\semester 2\\object oriented programming\\swin_adventure\\2.4p\\2.4p\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC65D78-0B8F-444D-B0F0-FB58DCBE96B3}|2.4P\\2.4P.csproj|solutionrelative:2.4p\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC65D78-0B8F-444D-B0F0-FB58DCBE96B3}|2.4P\\2.4P.csproj|d:\\semester 2\\object oriented programming\\swin_adventure\\2.4p\\2.4p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC65D78-0B8F-444D-B0F0-FB58DCBE96B3}|2.4P\\2.4P.csproj|solutionrelative:2.4p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\swin_adventure\\2.4P\\IdentifiableObjectTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "IdentifiableObjectTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\swin_adventure\\2.4P\\IdentifiableObjectTest\\UnitTest1.cs",
+              "RelativeToolTip": "IdentifiableObjectTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:48:17.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\swin_adventure\\2.4P\\2.4P\\Program.cs",
+              "RelativeDocumentMoniker": "2.4P\\Program.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\swin_adventure\\2.4P\\2.4P\\Program.cs",
+              "RelativeToolTip": "2.4P\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:48:16.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentifiableObject.cs",
+              "DocumentMoniker": "D:\\Semester 2\\Object Oriented Programming\\swin_adventure\\2.4P\\2.4P\\IdentifiableObject.cs",
+              "RelativeDocumentMoniker": "2.4P\\IdentifiableObject.cs",
+              "ToolTip": "D:\\Semester 2\\Object Oriented Programming\\swin_adventure\\2.4P\\2.4P\\IdentifiableObject.cs",
+              "RelativeToolTip": "2.4P\\IdentifiableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:48:15.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
